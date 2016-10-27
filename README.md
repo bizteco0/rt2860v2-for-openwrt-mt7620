@@ -32,6 +32,7 @@ $make menuconfig
 
 	Target System: (Ralink 288x/3xxx)
 	Subtarget: (MT7620N based boards)
+	Target Profile ( ZBT-WE826 Device)
 
 ```shell
 $make V=99
